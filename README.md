@@ -1,5 +1,3 @@
-# 💫 About Me:
-Final-year CS student 🎓
 
 🌱 Learning: Full-Stack Web Dev & DSA (C++).
 
